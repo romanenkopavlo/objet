@@ -1,4 +1,4 @@
-package frbtsciel.com;
+package fr.btsciel;
 
 public class Temperature {
     double matin;
